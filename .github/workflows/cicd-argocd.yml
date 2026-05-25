@@ -296,4 +296,3 @@ jobs:
           echo "📋 Final ArgoCD App Status"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           argocd app list || true
-
